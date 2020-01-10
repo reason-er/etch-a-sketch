@@ -1,0 +1,48 @@
+body {
+text-align: center;
+position: relative;
+}
+button {
+padding: 10px;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+background-color: white;
+color: black;
+border: 2px solid #3f3f3f;
+border-radius: 10px;
+}
+
+#container{
+display: grid;
+width: 100%;
+max-width: 500px;
+height: 100vw;
+max-height: 500px;
+margin: auto;
+outline:2px solid #000;
+}
+
+#wrapper {
+width: 100%;
+max-width: 500px;
+margin: auto;
+text-align: center;
+}
+
+.probe {
+width: 100px;
+height: 100px;
+background-color: white;
+}
+
+footer {
+text-align: center;
+}
+
+h1 {
+font-family: 'Bungee Inline', cursive;
+}
+
+    
+    
